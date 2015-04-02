@@ -3,7 +3,10 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/7l4iyu356ci5yy2u?svg=true)](https://ci.appveyor.com/project/madskristensen/reactsnippetpack)
 
 A snippet pack to make you more productive working with React.js.
-Based on the snippets from the [Atom React Plugin](http://orktes.github.io/atom-react/)
+Based on the snippets from the [Atom React Plugin](http://orktes.github.io/atom-react/).
+
+Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/234d79e9-f0fd-41e1-a926-850da8e8c7d7)
+or get the [nightly build](http://vsixgallery.com/extension/a7dff10f-3592-429c-9dc1-622fe517921d/).
 
 ![React Snippet Pack](art/react-snippet-pack.gif)
 
