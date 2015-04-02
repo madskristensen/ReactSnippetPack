@@ -4,6 +4,8 @@
 
 A snippet pack to make you more productive working with React.js.
 
+![React Snippet Pack](art/react-snippet-pack.gif)
+
 Snippets include commonly used React specific boilerplate.
 
 ![Snippet manager](art/snippet-manager.png)
