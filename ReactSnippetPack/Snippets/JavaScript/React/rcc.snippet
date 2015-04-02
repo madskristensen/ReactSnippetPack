@@ -1,0 +1,35 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>React: component skeleton</Title>
+        <Author>Microsoft Corporation</Author>
+        <Shortcut>rcc</Shortcut>
+        <Description>Code snippet for React</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>name</ID>
+                <ToolTip>Name</ToolTip>
+                <Default>name</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="JavaScript">
+            <![CDATA[var React = require('react');
+
+var $name$ = React.createClass({
+
+  render: function() {
+    return (
+      $end$<div />
+    );
+  }
+
+});
+
+module.exports = $name$;]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>
