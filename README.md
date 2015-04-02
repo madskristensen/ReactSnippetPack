@@ -6,7 +6,7 @@ A snippet pack to make you more productive working with React.js.
 
 Snippets include commonly used React specific boilerplate.
 
-![Snippet manager](../art/snippet-manager.png)
+![Snippet manager](art/snippet-manager.png)
 
 The snippets match the ones found here: http://orktes.github.io/atom-react/#snippets-list
 
