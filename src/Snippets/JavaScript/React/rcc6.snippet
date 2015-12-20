@@ -1,0 +1,33 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>React: component skeleton (ES6)</Title>
+        <Author>Mads Kristensen</Author>
+        <Shortcut>rcc6</Shortcut>
+        <Description>Code snippet for React</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>name</ID>
+                <ToolTip>Name</ToolTip>
+                <Default>name</Default>
+            </Literal>
+        </Declarations>
+        <Code Language="JavaScript">
+            <![CDATA[import React from 'react';
+
+const $name$ = React.createClass({
+  render () {
+    return (
+        $end$
+    )
+  }
+});
+
+export default $name$;]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

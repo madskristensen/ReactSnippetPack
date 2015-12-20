@@ -19,22 +19,31 @@ The snippets match the ones found here: http://orktes.github.io/atom-react/#snip
 Here's the full list:
 
 - `cdm` - componentDidMount: fn() { ... }
+- `cdm6` - ES6 version
 - `cdup` - componentDidUpdate: fn(pp, ps) { ... }
 - `cwm` - componentWillMount: fn() { ... }
+- `cwm6` - ES6 version
 - `cwr` - componentWillReceiveProps: fn(np) { ... }
 - `cwun` - componentWillUnmount: fn() { ... }
+- `cwun6` - ES6 version
 - `cwu` - componentWillUpdate: fn(np, ns) { ... }
+- `cwu6` - ES6 version
 - `cx` - cx({ ... })
 - `fup` - forceUpdate(...)
 - `gdp` - getDefaultProps: fn() { return {...} }
 - `gis` - getInitialState: fn() { return {...} }
 - `ism` - isMounted()
 - `pt` - propTypes { ... }
+- `pt6` - ES6 version
 - `rcc` - component skeleton
+- `rcc6` - ES6 version
 - `ren` - render: fn() { return ... }
+- `ren6` - ES6 version
 - `sst` - setState({ ... })
 - `scu` - shouldComponentUpdate: fn(np, ns) { ... }
+- `scu6` - ES6 version
 - `props` - this.props.
+- `props6` - ES6 version
 - `state` - this.state.
 - `trp` - transferPropsTo( ... )
 - `rrc` - render(component, container, [callback]) 
