@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="a7dff10f-3592-429c-9dc1-622fe517921d" Version="1.2" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="a7dff10f-3592-429c-9dc1-622fe517921d" Version="1.3" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>React Snippet Pack</DisplayName>
         <Description xml:space="preserve">Snippet pack for use with the React JavaScript framework</Description>
         <MoreInfo>https://github.com/madskristensen/ReactSnippetPack</MoreInfo>
@@ -11,7 +11,10 @@
         <Tags>React, JSX, JavaScript</Tags>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[14.0]" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="12.0" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="14.0" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="15.0" />
     </Installation>
     <Dependencies>
         <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
