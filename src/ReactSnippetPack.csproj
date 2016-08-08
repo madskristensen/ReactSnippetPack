@@ -50,98 +50,98 @@
     <Content Include="Resources\Preview.png">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cdm.snippet">
+    <Content Include="Snippets\React Snippet Pack\cdm.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cdup.snippet">
+    <Content Include="Snippets\React Snippet Pack\cdup.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwm.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwm.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwr.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwr.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwun.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwun.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwu.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwu.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cx.snippet">
+    <Content Include="Snippets\React Snippet Pack\cx.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\fup.snippet">
+    <Content Include="Snippets\React Snippet Pack\fup.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\gdp.snippet">
+    <Content Include="Snippets\React Snippet Pack\gdp.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\gis.snippet">
+    <Content Include="Snippets\React Snippet Pack\gis.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\ism.snippet">
+    <Content Include="Snippets\React Snippet Pack\ism.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\pt.snippet">
+    <Content Include="Snippets\React Snippet Pack\pt.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\rcc.snippet">
+    <Content Include="Snippets\React Snippet Pack\rcc.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\ren.snippet">
+    <Content Include="Snippets\React Snippet Pack\ren.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\sst.snippet">
+    <Content Include="Snippets\React Snippet Pack\sst.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\scu.snippet">
+    <Content Include="Snippets\React Snippet Pack\scu.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\props.snippet">
+    <Content Include="Snippets\React Snippet Pack\props.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\state.snippet">
+    <Content Include="Snippets\React Snippet Pack\state.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\trp.snippet">
+    <Content Include="Snippets\React Snippet Pack\trp.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\rrc.snippet">
+    <Content Include="Snippets\React Snippet Pack\rrc.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="..\LICENSE">
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\rcc6.snippet">
+    <Content Include="Snippets\React Snippet Pack\rcc6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cdm6.snippet">
+    <Content Include="Snippets\React Snippet Pack\cdm6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwm6.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwm6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwr6.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwr6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwun6.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwun6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\cwu6.snippet">
+    <Content Include="Snippets\React Snippet Pack\cwu6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\pt6.snippet">
+    <Content Include="Snippets\React Snippet Pack\pt6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\ren6.snippet">
+    <Content Include="Snippets\React Snippet Pack\ren6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\scu6.snippet">
+    <Content Include="Snippets\React Snippet Pack\scu6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\React\props6.snippet">
+    <Content Include="Snippets\React Snippet Pack\props6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
