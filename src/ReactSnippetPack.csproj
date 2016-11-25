@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumVisualStudioVersion>$(VisualStudioVersion)</MinimumVisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -50,98 +50,98 @@
     <Content Include="Resources\Preview.png">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cdm.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cdm.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cdup.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cdup.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwm.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwm.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwr.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwr.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwun.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwun.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwu.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwu.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cx.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cx.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\fup.snippet">
+    <Content Include="Snippets\ReactSnippetPack\fup.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\gdp.snippet">
+    <Content Include="Snippets\ReactSnippetPack\gdp.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\gis.snippet">
+    <Content Include="Snippets\ReactSnippetPack\gis.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\ism.snippet">
+    <Content Include="Snippets\ReactSnippetPack\ism.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\pt.snippet">
+    <Content Include="Snippets\ReactSnippetPack\pt.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\rcc.snippet">
+    <Content Include="Snippets\ReactSnippetPack\rcc.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\ren.snippet">
+    <Content Include="Snippets\ReactSnippetPack\ren.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\sst.snippet">
+    <Content Include="Snippets\ReactSnippetPack\sst.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\scu.snippet">
+    <Content Include="Snippets\ReactSnippetPack\scu.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\props.snippet">
+    <Content Include="Snippets\ReactSnippetPack\props.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\state.snippet">
+    <Content Include="Snippets\ReactSnippetPack\state.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\trp.snippet">
+    <Content Include="Snippets\ReactSnippetPack\trp.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\rrc.snippet">
+    <Content Include="Snippets\ReactSnippetPack\rrc.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="..\LICENSE">
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\rcc6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\rcc6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cdm6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cdm6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwm6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwm6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwr6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwr6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwun6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwun6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\cwu6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\cwu6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\pt6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\pt6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\ren6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\ren6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\scu6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\scu6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\React Snippet Pack\props6.snippet">
+    <Content Include="Snippets\ReactSnippetPack\props6.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
